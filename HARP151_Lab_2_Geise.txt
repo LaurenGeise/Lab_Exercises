@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="description" content="Lab Two, Website of Baby Animals">
+    <meta name="keywords" content="Baby Animals, Cute, Adorable, Animal">
+    <title>Baby Animals</title>
+</head>
+<body>
+    <h3>Welcome to CuteAnimals.com</h3>
+    <div id="wrapper">
+        <p class="big-text">Find all of your favorite adorable animals... as babies!</p>
+    </div>
+</body>
+<hr>
+<body>
+    <div>
+    <p>
+        <img src="baby_squirrel.jpg" width="200" height="150">
+
+        <p> <b>Baby Squirrel</b></p>
+    </p>This is a baby Squirrel! So cute and sleepy, taking a nap amidst historical ruins.
+    </div>
+</body>
+<br>
+<table>
+    <thead>
+        <tr>
+            <th> <img src="baby_turtle.jpg" width="200" height="150">
+            <th> <img src="baby_croc.jpg" width="200" height="150">
+        </tr>
+    </thead>
+    <tbody>
+        <th> 
+            <p class="info">Baby Turtle</p>
+        </th>
+        <th>
+            <p class="info"> Baby Crocodile</p>
+        </th>
+    </tbody>
+    <tbody>
+        <th>
+            Here's a baby turtle on its way to the ocean!</p>
+        </th>
+        <th>
+            A baby croc swims in the green foliage</p>
+        </th>
+    </tbody>
+    </table>
+    <body>
+        <p> Don't see your favorite animal? Let us know! <input type="text"> </p>
+    </body>
+    <body>
+        <div>
+            <p class="info"><em>OR</em> click <input type="button" value="here"> to contact our organization directly. </p>
+        </div>
+    </body>
+<hr>
+    <body>
+         <p class="info">Curious to know which baby animal <strong><em>you</em></strong> would be??? Check out this <a href="https://www.buzzfeed.com/saadmatheus/baby-animal-quiz" title="Buzzfeed Baby Animal Quiz">Buzzfeed Quiz</a> to find out!</p>
+    </body>
+
+    <hr>
+    <body>
+        <p> <strong> Thanks for reading! Enjoy this compilation of baby animal videos!</strong></p>
+        <iframe width="560" height="300" src="https://www.youtube.com/embed/-XHySh2TN94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web">
+    </body>
+</html>
