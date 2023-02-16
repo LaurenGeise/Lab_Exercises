@@ -4,6 +4,7 @@
     <meta name="description" content="Lab Two, Website of Baby Animals">
     <meta name="keywords" content="Baby Animals, Cute, Adorable, Animal">
     <title>Baby Animals</title>
+    <link rel="stylesheet" type="text/css" href="my_example_css_html"/>
 </head>
 <body>
     <h3>Welcome to CuteAnimals.com</h3>
