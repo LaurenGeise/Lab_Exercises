@@ -1,0 +1,40 @@
+*{ /*this is global styling --> affects the whole page*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.middle{ /*local styling --> this will only affect the content nested within the class*/
+    position: relative;
+    padding: 10px;
+    margin: auto;
+    height: 100%;
+    width: 50%;
+}
+
+#wrapper{ /* local styling --> this is an ID, used for unique code that probably won't be replicated throughout the document*/
+    padding:px;
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+    height: 100%;
+    width: 85%;
+    background-image: linear-gradient(to right, lightgreen , lightblue); /*background gradient*/
+}
+
+body{
+    background-color: rgb(212, 239, 244);
+}
+
+.vert{ /*local styling --> text appears vertically*/
+    writing-mode: vertical-lr;
+}
+
+.button{ /*local styling --> button customization via CSS*/
+    background-color: #145808;
+    color: whitesmoke;
+    padding: 1px 2px;
+    text-align: auto;
+    display: inline-block;
+}
+
+.border{ /*local styling*/
+    border:3px dotted;
+}
